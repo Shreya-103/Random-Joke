@@ -1,6 +1,6 @@
 # 🤣 Joke Generator
 
-<a href="https://shreya-103.github.io/Random-Joke"> Click here to see </a>
+<a href="https://shreya-103.github.io/Random-Joke"> Click here to see </a> <hr>
 Get ready to *laugh on demand*! This Joke Generator is a fun project built with 💻 **JavaScript** and powered by real-time **API integration**. Whether you're coding late at night or just bored, this app serves up fresh jokes with a single click!
 
 ---
